@@ -1,7 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yigit</h2>
-
-
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1743448148809495063/6BAF079249E8F68AC2EC5DAF89E0D88839C488D1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<h2 align="left">Hi!</h2>
 
 ###
 
