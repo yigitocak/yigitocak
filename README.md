@@ -21,6 +21,7 @@
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="30"/>
   <img src="https://jwt.io/img/pic_logo.svg" height="30"/>
   <img src="https://flight-deck-assets-bifrost.prod-east.frontend.public.atl-paas.net/assets/image/logos/contrib/jira/icons/blue.svg" height="30"/>
+  <img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp" height="25"/>
 </div>
 
 ###
