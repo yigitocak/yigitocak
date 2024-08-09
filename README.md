@@ -14,9 +14,12 @@
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="33"/>
   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" height="30"/>
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" height="28"/>
+  <br />
+  <img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_32x32.png" height="30"/>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="45"/>
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="35"/>
   <img src="https://socket.io/images/logo-dark.svg" height="30"/>
+  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" height="30"/>
   <img src="https://knexjs.org/knex-logo.png" height="30"/>
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="30"/>
   <img src="https://jwt.io/img/pic_logo.svg" height="30"/>
